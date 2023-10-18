@@ -1,6 +1,6 @@
                    KEYWORDS 
 
-1.desktop mainly divided into three parts- 1. Computation 2.Storage 3. Network
+1.*Desktop* mainly divided into three parts- 1. Computation 2.Storage 3. Network
 
 2.SOME TERMS – CPU-central processing unit GPU-graphic processing unit DPU-data processing unit TPU-tensor processing unit
 
@@ -164,8 +164,7 @@ a.It is a advanced database mechanism that allows transparent information sharin
 
 b.It made by SANTOSHI NAKAMOTO in 2008.
 
-60.CURRENCY-
-
+60.CURRENCY
 a.Bitcoin-it is a innovative payment network and a new kind of money.Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
 
 b.Ethereum-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.Ethereum and its apps are transparent and open source.
@@ -174,6 +173,8 @@ c.ICO-An initial coin offering (ICO) is an event where a company sells a new cry
 
 d.MLM-Multi-level Marketing (MLM) or network marketing, is individuals selling products to the public – often by word of mouth and direct sales.
 
-
-
+61.API:AN application Programming Interference (API) is a way for two or more computer programs to communicate with each other.
+It is a type of software interface, offering a service to other pieces of software.
+A document or standard that describes how to build or use such a connection or interface is called an API specification.
+ 
 
